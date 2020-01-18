@@ -11,5 +11,5 @@ title = "Biography"
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 # author = "admin"
-Uncertainty & Unlimited LLC provides consulting services in terms of uncertainty quantification and risk management
 +++
+Uncertainty & Unlimited LLC provides consulting services in terms of uncertainty quantification and risk management
