@@ -32,6 +32,9 @@ subtitle = ""
   name = "Surrogate Modeling"
   description = "Gaussian Process, PCE, Deep Learning"  
   
-
-
+[[feature]]
+  icon = "building"
+  icon_pack = "fas"
+  name = "Structural Dynamics"
+  description = "Random Process, Extreme Response"
 +++
