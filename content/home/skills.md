@@ -21,7 +21,7 @@ subtitle = ""
   description = "Monte Carlo Simulation"
 
 [[feature]]
-  icon = "analytics"
+  icon = "chart-bar"
   icon_pack = "fas"
   name = "Design"
   description = "Environmental Contour Method"
