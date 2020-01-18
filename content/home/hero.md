@@ -17,7 +17,7 @@ hero_media = "u2-logo.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#FFD700"
+  color = "#87CEFA" # Light Sky Blue
   
   # Background gradient.
   #gradient_start = "#4bb4e3"
