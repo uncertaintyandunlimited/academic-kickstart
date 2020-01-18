@@ -37,4 +37,10 @@ subtitle = ""
   icon_pack = "fas"
   name = "Structural Dynamics"
   description = "Random Process, Extreme Response"
+
+[[feature]]
+  icon = "sort-amount-down"
+  icon_pack = "fas"
+  name = "Model Reduction"
+  description = "Gradient-Based, Multi-Fidelity Modeling"
 +++

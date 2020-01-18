@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Uncertainty & Unlimited LLC"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-#hero_media = "u2-logo.png"
+hero_media = "u2-logo.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
