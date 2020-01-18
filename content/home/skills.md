@@ -43,4 +43,10 @@ subtitle = ""
   icon_pack = "fas"
   name = "Model Reduction"
   description = "Gradient-Based, Multi-Fidelity Modeling"
+
+[[feature]]
+  icon = "hand-holding-usd"
+  icon_pack = "fas"
+  name = "Risk Management"
+  description = "Uncertainty Measure, Statistical Analysis"
 +++
