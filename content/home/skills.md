@@ -15,10 +15,16 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "desktop"
+  icon_pack = "fas"
+  name = "Computer Simulation"
+  description = "Monte Carlo Simulation"
+
+[[feature]]
+  icon = "analytics"
+  icon_pack = "fas"
+  name = "Design"
+  description = ["Environmental Contour Method","Inverse FORM"]
   
 [[feature]]
   icon = "chart-line"
@@ -26,10 +32,6 @@ subtitle = ""
   name = "Statistics"
   description = "100%"  
   
-[[feature]]
-  icon = "desktop"
-  icon_pack = "fas"
-  name = "Computer Simulation"
-  description = "Monte Carlo"
+
 
 +++
