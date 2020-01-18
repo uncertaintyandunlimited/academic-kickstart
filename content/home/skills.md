@@ -27,9 +27,9 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "fa-desktop"
+  icon = "desktop"
   icon_pack = "fas"
-  name = "Simulation"
-  description = "Monte Carlo simulation"
+  name = "Computer Simulation"
+  description = "Monte Carlo"
 
 +++
