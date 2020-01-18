@@ -17,8 +17,8 @@ subtitle = ""
 [[feature]]
   icon = "desktop"
   icon_pack = "fas"
-  name = "Computer Simulation"
-  description = "Monte Carlo Simulation"
+  name = "Stochastic Simulation"
+  description = "Monte Carlo Simulation, Advanced Sampling"
 
 [[feature]]
   icon = "chart-bar"
@@ -27,10 +27,10 @@ subtitle = ""
   description = "Environmental Contour Method, Inverse FORM"
 
 [[feature]]
-  icon = "chart-line"
+  icon = "calculator"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Surrogate Modeling"
+  description = "Gaussian Process, PCE, Deep Learning"  
   
 
 
