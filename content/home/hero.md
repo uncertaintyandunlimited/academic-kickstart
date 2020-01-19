@@ -51,6 +51,6 @@ hero_media = "u2-logo.png"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**We Provides Engineered Solutions**
+**Provides Engineered Solutions**
 
 **Our Expertise**: Uncertainty Quantification and Risk Management
