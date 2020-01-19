@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "chart-bar"
   icon_pack = "fas"
-  name = "Design"
+  name = "Design & Analysis"
   description = "Environmental Contour Method, Inverse FORM"
 
 [[feature]]
