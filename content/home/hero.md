@@ -51,6 +51,6 @@ title = "Uncertainty Unlimited, LLC"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-*Provides Engineered Solutions*
+*Provides solutions in terms of uncertainty*
 
 **Consideration for uncertainty is critical in problems associated with complex engineering systems**. Deterministic solutions are often insuffient to achieve confidence in computational results and for use in design. In uncertainty quantication (UQ) for problems dealing with many random or stochastic sources, we seeks information on or statistics of quantity of interest (QoI).
