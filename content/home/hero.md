@@ -51,6 +51,8 @@ title = "Uncertainty Unlimited, LLC"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**Provides Engineered Solutions**
+*Provides Engineered Solutions*
 
-**Our Expertise**: Uncertainty Quantification and Risk Management
+**Consideration for uncertainty is critical in problems associated with complex engineering systems**. Deterministic solutions are often insuffient to achieve confidence in computational results and for use in design. In uncertainty quantication (UQ) for problems dealing with many random or stochastic sources, we seeks information on or statistics of quantity of interest (QoI).
+
+Generally, one need to run numerous costly computer simulations to assess uncertainty in any QoIs. Computer simulations are performed to inform some decision (e.g., in design, operation or control) and one might employ low-, medium- or high-fidelity models with different degrees of imperfection. Thus, we need validation of computational models for accurate QoI prediction.
