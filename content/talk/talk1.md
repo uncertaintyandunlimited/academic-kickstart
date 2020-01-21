@@ -1,5 +1,5 @@
 ---
-title: My PhD Slides
+title: My PhD Defense Slides
 summary: Uncertainty Quantification of the Dynamics Analysis of Offshore Structures
 date: "2019-11-21"
 
