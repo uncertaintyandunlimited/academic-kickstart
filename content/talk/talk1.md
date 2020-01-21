@@ -1,7 +1,7 @@
 ---
-title: An example title
-summary: Here we describe how to add a page to your site.
-date: "2018-06-28T00:00:00Z"
+title: My PhD Slides
+summary: Uncertainty Quantification of the Dynamics Analysis of Offshore Structures
+date: "2019-11-21"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -14,4 +14,3 @@ header:
   image: ""
 ---
 
-Add your *content* here...
