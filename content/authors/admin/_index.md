@@ -69,4 +69,4 @@ user_groups:
 - Principal Consultant
 ---
 
-HyeongUk Lim is a principal consultant at Uncertainty & Unlimited LLC. His expertise includes uncertainty quantification, reliability analysis, and structural dynamics.
+HyeongUk Lim is a principal consultant at Uncertainty Unlimited, LLC. His expertise includes uncertainty quantification, reliability analysis, and structural dynamics.
