@@ -15,7 +15,7 @@ role: Principal Consultant
 # Organizations/Affiliations
 organizations:
 - name: Uncertainty & Unlimited LLC
-  url: ""
+  url: "https://uu-llc.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research has been focused on the development of advanced computational methods that address uncertainty quantification, sensitivity analysis, and dimension reduction for complex engineering systems and/or structures.
@@ -69,4 +69,4 @@ user_groups:
 - Principal Consultant
 ---
 
-HyeongUk Lim is a principal consultant at Uncertainty Unlimited, LLC. His expertise includes uncertainty quantification, reliability analysis, and structural dynamics.
+HyeongUk Lim is a founder/principal consultant at Uncertainty Unlimited, LLC. His expertise includes uncertainty quantification, reliability analysis, and structural dynamics.
