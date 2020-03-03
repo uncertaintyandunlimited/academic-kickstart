@@ -20,4 +20,4 @@ Consideration for uncertainty is critical in problems associated with structural
 This dissertation represents a collection of four papers that deal with PCE surrogate modeling and dimension reduction. Each paper, representing a separate chapter, contributes to the development of accurate and efficient UQ approaches for offshore structure dynamics problems involving various sources of uncertainty. We demonstrate the proposed approaches in different applications: I. estimation of fatigue damage in a marine riser due to vortex-induced vibration; II. prediction of the long-term extreme response of a moored floating structure; III. surrogate model development for structural reliability analysis; and IV. dimension reduction in the extreme response prediction of offshore structures.
 
 ### Presentation
-[see slides](static/files/PhD-Defense-HyeongUk.pptx)
+{{% staticref "files/PhD-Defense-HyeongUk.pptx" %}}see slides{{% /staticref %}}
